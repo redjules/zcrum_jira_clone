@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Final app
+
+https://zcrum-jira-clone-pearl.vercel.app/
+
+## Screenshots
+
+![Description of Screenshot 1](11.png)
+
+![Description of Screenshot 1](12.png)
+
+## Tech Stack
+
+Zcrum - Jira Clone using Next JS, Shadcn UI, Tailwind, Clerk, NeonDB
+
 ## Getting Started
 
 First, run the development server:
